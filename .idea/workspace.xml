@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d891ec60-f75b-4093-b543-9f15adea3157" name="Changes" comment="add CI pipeline">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d891ec60-f75b-4093-b543-9f15adea3157" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744792745758</updated>
-      <workItem from="1744792746777" duration="867000" />
+      <workItem from="1744792746777" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="Add main.py">
       <option name="closed" value="true" />
@@ -117,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744793523293</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a">
+      <option name="closed" value="true" />
+      <created>1744793626642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744793626642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +139,7 @@
     <MESSAGE value="Add main.py" />
     <MESSAGE value="Add file.py to branch" />
     <MESSAGE value="add CI pipeline" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CI pipeline" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
